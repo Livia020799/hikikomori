@@ -1,2 +1,2 @@
 # hikikomori
-BSc thesis
+BSc thesis in italian
